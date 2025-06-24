@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this cookbook, please cite it as below."
 authors:
   # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
-  - family-names: Paton-Walsh (Murphy)
+  - family-names: Paton-Walsh
     given-names: Clare
     orcid: https://orcid.org/0000-0003-1156-4138
     website: https://github.com/clarepw
