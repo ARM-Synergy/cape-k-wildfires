@@ -1,5 +1,7 @@
+title: "CAPE-k Wildfire Analysis"
 cff-version: 1.2.0
 message: "If you use this cookbook, please cite it as below."
+abstract: "Student analysis focused on wildfires observed at the CAPE-k site."
 authors:
   # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
   - family-names: Paton-Walsh
@@ -37,5 +39,3 @@ authors:
     orcid: https://orcid.org/0009-0004-2660-4870
     website: https://github.com/LukeBurgessClimate
     affiliation: University of Melbourne
-title: "CAPE-k Wildfire Analysis"
-abstract: "Student analysis focused on wildfires observed at the CAPE-k site."
